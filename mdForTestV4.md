@@ -24,3 +24,4 @@ line 24 v15
 line 25 v16
 
 new line failed test
+new line passed test
