@@ -26,3 +26,5 @@ line 25 v16
 new line failed test
 new line passed test
 new line passed test
+
+new line failed test
